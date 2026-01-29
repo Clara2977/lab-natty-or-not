@@ -36,9 +36,14 @@ Curadoria de Receitas: Utilizei a IA para selecionar pratos que tradicionalmente
 Engenharia de Prompts (Prompt Engineering): Foquei em prompts que descreviam texturas específicas. Em vez de apenas "Lasanha", usei termos como "lasagna with bubbling dairy-free cheese, golden crust, steam rising, macro shot, 8k resolution, natural window lighting".
 Refinamento Visual: Selecionei apenas as imagens que apresentavam "imperfeições naturais" (molho escorrendo, migalhas, iluminação orgânica), descartando as que pareciam excessivamente digitais ou artificiais.
 Montagem: Agrupei as imagens e textos em um formato de cardápio de alta gastronomia.Descreva como você criou o conteúdo.
+d
 
 ## 🚀 Resultados
 O resultado final é um guia visualmente impactante onde as texturas dos alimentos — como a cremosidade de um molho branco feito de castanhas — são indistinguíveis de uma fotografia profissional de estúdio. O projeto prova que a IA pode ser uma aliada poderosa na publicidade de alimentos, reduzindo custos de produção sem perder o apetite visual.Apresente os resultados do seu projeto
+![Prato Zero Lactose Realista]([Phoenix_10_a_cinematic_photo_of_an_extreme_closeup_of_a_gourme_3](https://github.com/user-attachments/assets/a6938a6a-18e8-49e5-b6d5-c49ae6526ca1)
+.)
+![Phoenix_10_a_cinematic_photo_of_an_extreme_closeup_of_a_gourme_3](https://github.com/user-attachments/assets/fcede965-9cff-45ec-b7f9-3d5deb69f78e)
+![Phoenix_10_a_cinematic_photo_of_an_extreme_closeup_of_a_gourme_3](https://github.com/user-attachments/assets/6bcca866-7df3-4e6c-bf02-745a38f4eb5d)
 
 ## 💭 Reflexão (Opcional)
 O maior desafio de criar algo "natty" (natural) na gastronomia é a textura. IAs tendem a deixar a comida "perfeita demais", o que o cérebro humano interpreta como artificial. O segredo para vencer o desafio foi humanizar o resultado, pedindo à IA para adicionar vapor, desfoque de fundo e iluminação de janela, trazendo a sensação de que o prato acabou de sair da cozinha.
