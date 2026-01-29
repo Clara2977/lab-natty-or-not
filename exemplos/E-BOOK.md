@@ -1,19 +1,41 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
-## 📒 Descrição
-Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+📒 Descrição
+Sabores sem Fronteiras: O Guia Gastronômico Zero Lactose ;) Este e-book de 5 páginas explora receitas sofisticadas e totalmente livres de lactose, utilizando fotorrealismo extremo para provar que a culinária restritiva pode ser visualmente irresistível.
 
-## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- Ferramenta **Libre Office** para edição.
+🤖 Tecnologias Utilizadas
+ChatGPT: Para roteirização das receitas e curadoria de ingredientes substitutos;
 
-## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Leonardo AI: Para criar as imagens fotorrealistas dos pratos (utilizando o modelo PhotoReal);
 
-## 🚀 Resultados
-O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
+Python: Script automatizado para organização de prompts e geração da estrutura documental;
 
+Canva/LibreOffice: Para a diagramação e edição final.
+
+🧐 Processo de Criação
+O processo começou com a pesquisa de substitutos de lactose que mantivessem a textura visual dos pratos (como leite de castanhas para risotos). Usei o ChatGPT para refinar as instruções técnicas. No Leonardo AI, apliquei engenharia de prompt focada em "fotografia gastronômica de revista" para evitar o aspecto artificial. Por fim, utilizei um script Python para padronizar a documentação e organizei tudo no editor final.
+# 📕 Guia Gastronômico: O Sabor da Liberdade (Zero Lactose)
+
+## 📖 Resumo
+Este e-book foi criado para provar que a culinária restritiva pode ser visualmente deslumbrante e tecnicamente saborosa. Utilizamos IAs para gerar desde o conceito das receitas até as fotografias "fakes" que parecem ter saído de uma revista de culinária.
+
+## 🥗 Sumário
+1. [Introdução ao Mundo Sem Lactose](#)
+2. [Pratos Principais: O Risoto Perfeito](#)
+3. [Sobremesas: Cheesecake Surreal](#)
+4. [Dicas de Chef: Substituições Inteligentes](#)
+
+## 🛠️ Metodologia Criativa
+- **Conteúdo**: Gerado via ChatGPT com foco em gastronomia funcional.
+- **Imagens**: Criadas no Leonardo.ai usando o modelo *PhotoReal* para máximo fotorrealismo.
+
+🚀 Resultados
+O e-book apresenta um conteúdo visualmente indistinguível de uma fotografia real, demonstrando o poder das IAs Generativas em criar materiais de marketing e educação nutricional de alto nível.
+
+LINK PARA O E-BOOK AQUI (Suba o PDF no seu GitHub e cole o link aqui)
+
+💭 Reflexão
+O maior desafio foi o "Natty or Not": fazer o queijo vegetal parecer real. A experiência revelou que o segredo do realismo está nas imperfeições, como o vapor e as texturas orgânicas que as IAs agora conseguem simular com precisão.
 [LINK PARA O E-BOOK AQUI]()
 
 ## 💭 Reflexão
